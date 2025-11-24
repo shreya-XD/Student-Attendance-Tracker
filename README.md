@@ -71,5 +71,5 @@ Save data to file (CSV / JSON)	Planned
 Convert to OOP format	Optional enhancement
 GUI version (Tkinter / PyQt)	Future update
 ## Author
-## SHREYA DHAVAN
+## SHREYA DHAWAN
 Student Attendance Tracker – Python Project
